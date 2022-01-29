@@ -1,0 +1,33 @@
+.navbar {
+    background-color: red;
+}
+
+.container-fluid{
+    background: gray;
+}
+
+.quemsomos{
+background-color: rgb(41, 41, 51);
+color: white;
+}
+
+.margin{
+    padding-bottom: 30px;
+    padding-top: 10px;
+}
+
+.parceiros{
+    background-color: rgb(80, 80, 145);
+    color: white;
+}
+
+.localizacao{
+    background-color: rgb(58, 58, 199);
+    color: white;
+}
+
+.bg-footer{
+    background-color: black;
+    color: white;
+    padding-bottom: 30px;
+}
